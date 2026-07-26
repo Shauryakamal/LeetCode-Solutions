@@ -9,6 +9,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0009-palindrome-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
@@ -27,6 +28,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0169-majority-element](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -57,6 +59,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0169-majority-element](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -68,6 +71,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0268-missing-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -104,6 +108,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0217-contains-duplicate](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -121,4 +126,5 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
