@@ -26,6 +26,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0169-majority-element](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -43,6 +44,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0075-sort-colors](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0169-majority-element](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +64,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -96,6 +100,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0217-contains-duplicate](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
