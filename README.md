@@ -10,6 +10,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0050-powx-n](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0509-fibonacci-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0509-fibonacci-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,8 +73,13 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
