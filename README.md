@@ -21,6 +21,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -115,4 +116,8 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
