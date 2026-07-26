@@ -7,6 +7,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0367-valid-perfect-square](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
