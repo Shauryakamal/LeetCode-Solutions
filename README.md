@@ -30,6 +30,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0283-move-zeroes](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0485-max-consecutive-ones](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
