@@ -122,6 +122,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -254,5 +255,6 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
