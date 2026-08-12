@@ -61,6 +61,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -257,6 +258,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
