@@ -162,6 +162,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0013-roman-to-integer](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -254,6 +255,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
@@ -293,6 +295,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0138-copy-list-with-random-pointer](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -313,4 +316,8 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
