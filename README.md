@@ -257,6 +257,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0110-balanced-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -269,6 +270,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -279,6 +281,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0110-balanced-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -345,6 +348,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0110-balanced-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
@@ -367,4 +371,12 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
