@@ -260,6 +260,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0199-binary-tree-right-side-view](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -287,6 +288,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0199-binary-tree-right-side-view](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -356,6 +358,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0199-binary-tree-right-side-view](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -369,6 +372,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0112-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
