@@ -27,6 +27,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -162,6 +163,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
@@ -185,6 +187,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -259,6 +262,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0102-binary-tree-level-order-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -289,6 +293,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0102-binary-tree-level-order-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
