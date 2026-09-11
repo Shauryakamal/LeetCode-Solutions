@@ -266,6 +266,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -298,6 +299,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -333,6 +335,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -352,6 +355,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Tournament Sort
@@ -370,6 +374,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
