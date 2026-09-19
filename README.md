@@ -273,6 +273,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -289,6 +290,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
@@ -309,6 +311,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -386,6 +389,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
