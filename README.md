@@ -24,6 +24,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -92,6 +93,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
@@ -454,4 +456,8 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
