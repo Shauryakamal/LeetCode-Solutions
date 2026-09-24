@@ -18,6 +18,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -169,6 +170,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
