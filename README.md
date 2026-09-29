@@ -50,6 +50,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0349-intersection-of-two-arrays](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -97,6 +98,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0344-reverse-string](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -119,6 +121,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0349-intersection-of-two-arrays](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -150,6 +153,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,6 +484,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
