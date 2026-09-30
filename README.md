@@ -51,6 +51,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0349-intersection-of-two-arrays](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -74,6 +75,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0347-top-k-frequent-elements](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -157,6 +160,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0011-container-with-most-water](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 ## Prefix Sum
