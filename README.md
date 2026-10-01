@@ -109,6 +109,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0349-intersection-of-two-arrays](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0763-partition-labels](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -170,6 +171,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0763-partition-labels](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0344-reverse-string](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0763-partition-labels](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +227,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0763-partition-labels](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
