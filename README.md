@@ -58,6 +58,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0621-task-scheduler](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -136,6 +137,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0451-sort-characters-by-frequency](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0621-task-scheduler](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -174,6 +176,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0435-non-overlapping-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0621-task-scheduler](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0763-partition-labels](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 ## Prefix Sum
@@ -229,6 +232,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0349-intersection-of-two-arrays](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0763-partition-labels](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 ## Sliding Window
@@ -254,6 +258,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0169-majority-element](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -273,6 +278,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0295-find-median-from-data-stream](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
