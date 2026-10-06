@@ -111,6 +111,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0349-intersection-of-two-arrays](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0567-permutation-in-string](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -206,6 +207,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0242-valid-anagram](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0567-permutation-in-string](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0763-partition-labels](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 ## Memoization
@@ -234,6 +236,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0349-intersection-of-two-arrays](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0567-permutation-in-string](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0763-partition-labels](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
@@ -242,6 +245,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0567-permutation-in-string](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
