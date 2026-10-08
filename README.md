@@ -63,6 +63,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0621-task-scheduler](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -455,6 +456,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0155-min-stack](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0739-daily-temperatures](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -531,4 +533,8 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
