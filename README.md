@@ -11,6 +11,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0013-roman-to-integer](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -41,6 +42,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -449,6 +451,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0020-valid-parentheses](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
