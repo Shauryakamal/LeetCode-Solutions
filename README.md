@@ -62,6 +62,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0455-assign-cookies](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -461,6 +462,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0173-binary-search-tree-iterator](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
@@ -543,6 +545,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
