@@ -365,6 +365,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0173-binary-search-tree-iterator](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0901-online-stock-span](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,6 +411,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0901-online-stock-span](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +466,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0496-next-greater-element-i](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,6 +550,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0496-next-greater-element-i](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
