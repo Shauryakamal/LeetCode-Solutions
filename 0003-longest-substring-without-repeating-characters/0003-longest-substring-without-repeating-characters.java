@@ -3,8 +3,8 @@ class Solution {
         HashSet<Character> set = new HashSet<>();
         int left = 0;
         int maxLength = 0;
-        for(int right = 0; right < s.length(); right++){
-            while(set.contains(s.charAt(right))){
+        for (int right = 0; right < s.length(); right++) {
+            while (set.contains(s.charAt(right))) {
                 set.remove(s.charAt(left));
                 left++;
             }
