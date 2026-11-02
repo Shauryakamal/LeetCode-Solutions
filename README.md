@@ -29,6 +29,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -568,5 +569,6 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
