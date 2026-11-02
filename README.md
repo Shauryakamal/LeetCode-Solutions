@@ -34,6 +34,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0056-merge-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -281,6 +282,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Simulation
@@ -563,4 +565,8 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
