@@ -92,6 +92,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -217,6 +218,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0013-roman-to-integer](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0242-valid-anagram](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
@@ -575,4 +577,5 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0040-combination-sum-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
