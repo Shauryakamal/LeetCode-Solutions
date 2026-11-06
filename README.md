@@ -32,6 +32,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0040-combination-sum-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -585,8 +586,13 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0039-combination-sum](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
