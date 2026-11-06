@@ -38,6 +38,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0074-search-a-2d-matrix](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -219,6 +220,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0013-roman-to-integer](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0079-word-search](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0242-valid-anagram](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -435,6 +437,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -495,6 +498,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
@@ -582,6 +586,7 @@ My LeetCode problem solutions in Java — DSA practice and interview prep.
 | [0040-combination-sum-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Shauryakamal/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
